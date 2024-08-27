@@ -6,4 +6,5 @@ You can download the game in the releases section.
 
 ## Controls
 W - FLAP/JUMP
+
 E or Space - RESTART (only after game over)
